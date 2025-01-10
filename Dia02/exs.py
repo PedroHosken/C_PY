@@ -34,3 +34,12 @@ a = int(input("Insira e receba o dobro :)"))
 print(2*a)
 
 # %%
+# Receita de Bolo
+print("Bem vindo a receita secreta do Bolo do Pedrão:")
+input()
+print("Ingredientes:")
+input()
+print("2 xícaras de farinha de trigo")
+input()
+print("1 xícara de açúcar ....")
+# %%
