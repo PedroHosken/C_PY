@@ -4,8 +4,11 @@
 
 idade = int(input("Entre com sua idade:"))
 
-if idade >= 18:
+if 64 >=idade >= 18: # PERMITIDO
     print("Você ser de maior :-)")
+    print("Beba à vontade")
+elif idade > 64:
+    print("Calma, vovô")
 else:
     print ("Você ser de menor, seu merda")
 # ELIF: else-if, para caso de excessão.
